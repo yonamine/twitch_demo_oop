@@ -4,6 +4,10 @@
 
 #include "Person.hpp"
 
+/**
+ * @brief Inheritance of Person Class
+ * 
+ */
 class Teacher : public Person {
     public:
         Teacher() = default;
