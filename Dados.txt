@@ -1,0 +1,6 @@
+Teacher|Bento
+Student|John
+Student|Maria
+Student|Joakim
+Student|Elizabeth
+Student|Victor
